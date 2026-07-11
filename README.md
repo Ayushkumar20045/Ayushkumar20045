@@ -88,9 +88,6 @@ A modern social media platform built with Next.js, TypeScript, Tailwind CSS, and
 
 <div align="center">
 
-<!-- Generated daily by .github/workflows/metrics.yml — hosted on your own repo, not a third-party service -->
-<img src="https://github.com/Ayushkumar20045/Ayushkumar20045/blob/main/github-metrics.svg" width="100%"/>
-
 <img src="https://streak-stats.demolab.com?user=Ayushkumar20045&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
 
 </div>
