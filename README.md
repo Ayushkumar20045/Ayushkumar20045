@@ -1,26 +1,127 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>Bridging the gap between Big Data processing and intuitive user interfaces through end-to-end software projects.<br><br>👯 I'm looking to collaborate on<br>Data-driven applications or open-source projects that require both a Python backend and high-fidelity data storytelling.<br><br>🤝 I'm looking for help with<br>Securing an Internship in Data Science or Software Development where I can apply my analytical and design skills to real-world problems.<br><br>🌱 I'm currently learning<br>Mastering Full Stack Development to become a truly holistic developer who can handle everything from the database to the final CSS pixel.<br><br>💬 Ask me about<br>Python, Hadoop, or why Tableau/Power BI dashboards fail without good design principles. (Also, feel free to ask for a design critique!)<br><br>⚡ Fun fact<br>I'm a developer who actually enjoys CSS—my background in graphic design means I won't rest until the UI is pixel-perfect.
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_kumar112206) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-3059b7289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush22kumar2004@gmail.com) 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ayushkumar20045&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Ayush%20Kumar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Projects+That+Matter;Full-Stack+Developer;Next.js+%2B+TypeScript+%2B+Firebase;Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
+
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ayushkumar20045&theme=dark&hide_border=false)
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=ico&logoColor=white&labelColor=1a1a1a)
+
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumar20045&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushkumar20045&color=7dd3fc&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Ayushkumar20045?color=7dd3fc&style=flat-square&label=Followers)
+
+</div>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Ayushkumar20045&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 👨‍💻 Who I Am
+
+```typescript
+const ayushKumar = {
+  title: "Computer Science Student | Full-Stack Developer",
+  tagline: "Building Projects That Matter",
+  stack: {
+    languages: ["Python", "Java", "JavaScript", "TypeScript", "SQL", "C++"],
+    frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind CSS", "Bootstrap"],
+    backend: ["FastAPI", "Flask", "Node.js", "Apex (Salesforce)"],
+    database: ["PostgreSQL", "MySQL", "Firebase"],
+    cloud: ["Firebase"],
+    aiMl: ["Pandas", "NumPy", "Matplotlib"],
+  },
+  launchedProjects: ["Verse"],
+  certifications: [],
+  status: "Learning, building, and shipping projects",
+  openTo: ["Full-Stack Developer roles", "Internships", "Collaborations"],
+};
+```
+
+---
+
+## 🚀 Featured Projects
+
+### Verse
+
+A modern social media platform built with Next.js, TypeScript, Tailwind CSS, and Firebase.
+
+<div align="left">
+  <a href="https://github.com/Ayushkumar20045/verse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumar20045&repo=verse&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Verse Repo"/>
+  </a>
+</div>
+
+| Layer      | Technology     |
+|------------|----------------|
+| Frontend   | Next.js, TypeScript, Tailwind CSS |
+| Backend    | Firebase |
+| Database   | Firebase |
+
+🔗 **Code:** [github.com/Ayushkumar20045/verse](https://github.com/Ayushkumar20045/verse)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp&theme=dark)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark)
+
+**Backend / Infra**
+
+![Backend](https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark)
+
+**Database / Cloud**
+
+![Database](https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushkumar20045&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumar20045&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Ayushkumar20045&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ayushkumar20045&theme=nord&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar20045&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/ayush-kumar-3059b7289/)
+[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:Ayush22kumar2004@gmail.com)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
