@@ -19,7 +19,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=Ayushkumar20045&theme=nord&hide_border=false&border_radius=10&background=1a1a2e00&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideNums=7dd3fc&currStreakNum=ffffff&sideLabels=c9d1d9&dates=c9d1d9
+          options: user=Ayushkumar20045&theme=nord&hide_border=false&border_radius=10
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
