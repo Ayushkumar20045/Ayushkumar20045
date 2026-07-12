@@ -88,7 +88,7 @@ A modern social media platform built with Next.js, TypeScript, Tailwind CSS, and
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ayushkumar20045/Ayushkumar20045/main/profile/streak.svg" />
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 
