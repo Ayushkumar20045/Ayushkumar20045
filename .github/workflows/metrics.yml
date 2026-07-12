@@ -1,32 +1,32 @@
-name: Generate GitHub Metrics
+name: Update streak stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+    - cron: "0 3 * * *"   # runs every day at 03:00 UTC
   push:
-    branches:
-      - main
-
-permissions:
-  contents: write
+    paths:
+      - ".github/workflows/streak-stats.yml"  # re-run any time this file changes
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
 
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Generate and commit metrics SVG
-        uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Ayushkumar20045
-          template: classic
-          base: header, activity, community, repositories, metadata
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          config_timezone: Asia/Kolkata
-          filename: github-metrics.svg
-          committer_branch: main
+          options: user=Ayushkumar20045&theme=nord&hide_border=false&border_radius=10&background=1a1a2e00&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideNums=7dd3fc&currStreakNum=ffffff&sideLabels=c9d1d9&dates=c9d1d9
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit streak stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
