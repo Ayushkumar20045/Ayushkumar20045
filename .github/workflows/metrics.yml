@@ -1,32 +1,36 @@
-name: Update streak stats
+name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # runs every day at 03:00 UTC
-  push:
-    paths:
-      - ".github/workflows/streak-stats.yml"  # re-run any time this file changes
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
   workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+      - name: Generate and commit metrics SVG
+        uses: lowlighter/metrics@latest
         with:
-          options: user=Ayushkumar20045&theme=nord&hide_border=false&border_radius=10
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit streak stats
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
-          git push
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Ayushkumar20045
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          config_timezone: Asia/Kolkata
+          config_display: large
+          config_theme: prussian
+          config_animations: yes
+          plugin_languages_details: bytes-size
+          filename: github-metrics.svg
+          committer_branch: main
