@@ -33,7 +33,7 @@ const ayushKumar = {
     cloud: ["Firebase"],
     aiMl: ["Pandas", "NumPy", "Matplotlib"],
   },
-  inProgress: ["Verse"],,
+  inProgress: ["Docmind"],
   status: "Learning, building, and shipping projects",
   openTo: ["Full-Stack Developer roles", "Internships", "Collaborations"],
 };
@@ -43,22 +43,22 @@ const ayushKumar = {
 
 ## 🚀 Featured Projects
 
-### Verse ![Status](https://img.shields.io/badge/Status-In%20Development-7dd3fc?style=flat-square)
+### DocMind ![Status](https://img.shields.io/badge/Status-In%20Development-7dd3fc?style=flat-square)
 
-A modern social media platform built with Next.js, TypeScript, Tailwind CSS, and Firebase.
+A modern AI-powered RAG chatbot built with React, FastAPI, PostgreSQL, and LangChain for intelligent document-based conversations.
 
 <div align="left">
-  <a href="https://github.com/Ayushkumar20045/verse">
+  <a href="https://github.com/Ayushkumar20045/docmind">
   </a>
 </div>
 
-| Layer      | Technology     |
-|------------|----------------|
-| Frontend   | Next.js, TypeScript, Tailwind CSS |
-| Backend    | Firebase |
-| Database   | Firebase |
+| Layer      | Technology |
+|------------|------------|
+| Frontend   | React, Vite, Tailwind CSS |
+| Backend    | FastAPI, LangChain |
+| Database   | PostgreSQL |
 
-🔗 **Code:** [github.com/Ayushkumar20045/verse](https://github.com/Ayushkumar20045/verse)
+🔗 **Code:** [github.com/Ayushkumar20045/docmind](https://github.com/Ayushkumar20045/docmind)
 
 ---
 
@@ -66,21 +66,31 @@ A modern social media platform built with Next.js, TypeScript, Tailwind CSS, and
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp&theme=dark)
+![Languages](https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,sql&theme=dark)
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,bootstrap&theme=dark)
 
-**Backend / Infra**
+**Backend**
 
 ![Backend](https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark)
 
-**Database / Cloud**
+**Database**
 
 ![Database](https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark)
 
----
+**Cloud & DevOps**
+
+![Cloud](https://skillicons.dev/icons?i=firebase,git,github,npm,vercel&theme=dark)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=vscode,postman,figma,linux&theme=dark)
+
+**Data Science & AI**
+
+![AI](https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark)
 
 ## 📊 GitHub Stats
 
