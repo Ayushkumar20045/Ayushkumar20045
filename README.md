@@ -33,7 +33,7 @@ const ayushKumar = {
     cloud: ["Firebase"],
     aiMl: ["Pandas", "NumPy", "Matplotlib"],
   },
-  inProgress: ["Docmind"],
+  inProgress: ["TypeMetric"],
   status: "Learning, building, and shipping projects",
   openTo: ["Full-Stack Developer roles", "Internships", "Collaborations"],
 };
@@ -43,22 +43,15 @@ const ayushKumar = {
 
 ## 🚀 Featured Projects
 
-### DocMind ![Status](https://img.shields.io/badge/Status-In%20Development-7dd3fc?style=flat-square)
+### TypeMetric ![Status](https://img.shields.io/badge/Status-In%20Development-7dd3fc?style=flat-square)
 
-A modern AI-powered RAG chatbot built with React, FastAPI, PostgreSQL, and LangChain for intelligent document-based conversations.
+A modern typing speed test application built with Next.js, TypeScript, and Tailwind CSS for measuring typing speed, accuracy, and performance.
 
-<div align="left">
-  <a href="https://github.com/Ayushkumar20045/docmind">
-  </a>
-</div>
+| Layer    | Technology                  |
+| -------- | --------------------------- |
+| Frontend | Next.js, TypeScript, Tailwind CSS |
 
-| Layer      | Technology |
-|------------|------------|
-| Frontend   | React, Vite, Tailwind CSS |
-| Backend    | FastAPI, LangChain |
-| Database   | PostgreSQL |
-
-🔗 **Code:** [github.com/Ayushkumar20045/docmind](https://github.com/Ayushkumar20045/docmind)
+🔗 **Code:** [github.com/Ayushkumar20045/typemetric](https://github.com/Ayushkumar20045/typemetric)
 
 ---
 
@@ -66,31 +59,57 @@ A modern AI-powered RAG chatbot built with React, FastAPI, PostgreSQL, and LangC
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,sql&theme=dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,bootstrap&theme=dark)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend**
 
-![Backend](https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 **Database**
 
-![Database](https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Cloud & DevOps**
 
-![Cloud](https://skillicons.dev/icons?i=firebase,git,github,npm,vercel&theme=dark)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Tools**
 
-![Tools](https://skillicons.dev/icons?i=vscode,postman,figma,linux&theme=dark)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 **Data Science & AI**
 
-![AI](https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ## 📊 GitHub Stats
 
