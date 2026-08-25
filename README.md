@@ -16,7 +16,6 @@
 ![Followers](https://img.shields.io/github/followers/Ayushkumar20045?color=7dd3fc&style=flat-square&label=Followers)
 
 </div>
----
 
 ## 👨‍💻 Who I Am
 
