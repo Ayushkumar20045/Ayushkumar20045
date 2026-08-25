@@ -9,9 +9,7 @@
 <br/>
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
-
-<br/><br/>
-
+<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayushkumar20045&color=7dd3fc&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Ayushkumar20045?color=7dd3fc&style=flat-square&label=Followers)
 
