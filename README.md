@@ -22,36 +22,44 @@
 ## 👨‍💻 Who I Am
 
 ```typescript
-const ayushKumar = {
-  title: "Computer Science Student | Full-Stack Developer",
+cconst ayushKumar = {
+  title: "Computer Science Student | Full-Stack & ML Developer",
   tagline: "Building Projects That Matter",
   stack: {
     languages: ["Python", "Java", "JavaScript", "TypeScript", "SQL", "C++"],
     frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind CSS", "Bootstrap"],
     backend: ["FastAPI", "Flask", "Node.js", "Apex (Salesforce)"],
     database: ["PostgreSQL", "MySQL", "Firebase"],
-    cloud: ["Firebase"],
-    aiMl: ["Pandas", "NumPy", "Matplotlib"],
+    aiMl: ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "XGBoost"],
   },
-  inProgress: ["TypeMetric"],
+  inProgress: ["FraudGuard"],
   status: "Learning, building, and shipping projects",
-  openTo: ["Full-Stack Developer roles", "Internships", "Collaborations"],
+  openTo: [
+    "Full-Stack Developer roles",
+    "Machine Learning roles",
+    "Internships",
+    "Collaborations",
+  ],
 };
 ```
 
 ---
 
-## 🚀 Featured Projects
+## FraudGuard ![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
 
-### TypeMetric ![Status](https://img.shields.io/badge/Status-In%20Development-7dd3fc?style=flat-square)
+An end-to-end **transaction-level fraud detection and investigation system** built around the IEEE-CIS Fraud Detection dataset. FraudGuard combines an XGBoost champion model, preprocessing pipeline, FastAPI inference service, and a Next.js investigation console to turn a transaction ID into a fraud probability, verdict, and risk classification.
 
-A modern typing speed test application built with Next.js, TypeScript, and Tailwind CSS for measuring typing speed, accuracy, and performance.
+| Layer            | Technology                                   |
+| ---------------- | -------------------------------------------- |
+| Machine Learning | Python, Pandas, NumPy, Scikit-learn, XGBoost |
+| Backend          | FastAPI, Uvicorn                             |
+| Frontend         | Next.js, React, TypeScript, CSS              |
+| Data             | IEEE-CIS Fraud Detection                     |
+| Model            | XGBoost Day 7 Champion                       |
+| Inference        | 891-feature representation                   |
 
-| Layer    | Technology                  |
-| -------- | --------------------------- |
-| Frontend | Next.js, TypeScript, Tailwind CSS |
+🔗 **Code:** [github.com/Ayushkumar20045/Fraudguard](https://github.com/Ayushkumar20045/Fraudguard)
 
-🔗 **Code:** [github.com/Ayushkumar20045/typemetric](https://github.com/Ayushkumar20045/typemetric)
 
 ---
 
