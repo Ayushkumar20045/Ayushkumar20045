@@ -128,7 +128,7 @@ An end-to-end **transaction-level fraud detection and investigation system** bui
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar20045&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayushkumar20045&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff)
 
 </div>
 
