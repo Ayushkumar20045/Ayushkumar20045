@@ -128,7 +128,7 @@ An end-to-end **transaction-level fraud detection and investigation system** bui
 
 <div align="center">
 
-![Ayush's GitHub Activity](https://ghchart.rshah.org/7dd3fc/Ayushkumar20045)
+![Activity Graph](https://github-readme-activity-graph-iota-one.vercel.app/graph?username=Ayushkumar20045&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff)
 </div>
 
 ---
