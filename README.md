@@ -128,7 +128,7 @@ An end-to-end **transaction-level fraud detection and investigation system** bui
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ayushkumar20045&theme=react-dark&hide_border=true)
+![Ayush's GitHub Activity](https://ghchart.rshah.org/7dd3fc/Ayushkumar20045)
 </div>
 
 ---
